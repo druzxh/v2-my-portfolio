@@ -1,0 +1,11 @@
+#root {
+  margin: 0 auto;
+  text-align: center;
+}
+
+body {
+  overflow-x: hidden;
+  overflow-y: hidden;
+  background: url("bg.jpg") center center no-repeat;
+  background-size: cover;
+}
